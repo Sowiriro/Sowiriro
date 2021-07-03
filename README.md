@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sowiriro)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <!-- リポジトリステータス -->
