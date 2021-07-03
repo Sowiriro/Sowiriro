@@ -1,4 +1,6 @@
-### Hi there ![マナフィ普通動く](https://user-images.githubusercontent.com/49465310/124341427-3e168380-dbf7-11eb-960b-77cbd22b499c.gif)
+<h2> Hi, I'm Soichiro Ono! <img src="https://user-images.githubusercontent.com/49465310/124341427-3e168380-dbf7-11eb-960b-77cbd22b499c.gif"></h2>)
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sowiriro&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
