@@ -1,5 +1,6 @@
-<h2> Hi, I'm Soichiro Ono! <img src="https://user-images.githubusercontent.com/49465310/124341427-3e168380-dbf7-11eb-960b-77cbd22b499c.gif" width="50"></h2>)
+<h2> Hi, I'm Soichiro Ono! <img src="https://user-images.githubusercontent.com/49465310/124341427-3e168380-dbf7-11eb-960b-77cbd22b499c.gif" width="50"></h2>
 
+<img align='right' src="https://user-images.githubusercontent.com/49465310/124342194-2e9a3900-dbfd-11eb-9e68-23242c4f9cb3.gif" width="230">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sowiriro&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
