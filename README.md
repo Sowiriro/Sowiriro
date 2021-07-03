@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://github-profile-trophy.vercel.app/?username=Sowiriro&theme=nord
+
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=Sowiriro&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Sowiriro/)
 
