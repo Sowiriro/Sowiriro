@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <!-- リポジトリステータス -->
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=Sowiriro&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ユーザ名/)
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=Sowiriro&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Sowiriro/)
 
 <!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sowiriro&layout=compact&theme=tokyonight)](https://github.com/ユーザ名/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sowiriro&layout=compact&theme=tokyonight)](https://github.com/Sowiriro/)
 
 
 <!--
