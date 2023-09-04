@@ -10,7 +10,7 @@ I love soccer⚽, basketball🏀, board game🎲, workout💪, watching NBA⛹ a
 
 
 <picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=sowiriro&show_icons=true&bg_color=232B41&title_color=F3C06A&rank_icon=github&icon_color=ffffff&text_color=29314C&custom_title=Sowiriro's Status" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sowiriro&show_icons=true&bg_color=232B41&title_color=F3C06A&rank_icon=github&icon_color=ffffff&text_color=29314C"/>
 </picture>
 
 
