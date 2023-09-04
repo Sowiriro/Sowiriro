@@ -1,11 +1,25 @@
-# <p align="center" >![tumblr_lvr6ahuIWv1qg0dcvo1_500](https://github.com/Sowiriro/Sowiriro/assets/49465310/d02b3d9d-c94c-4445-8df6-d893264fe038)<img src="https://user-images.githubusercontent.com/49465310/124341427-3e168380-dbf7-11eb-960b-77cbd22b499c.gif" width="100"></p>
+## <img src="https://user-images.githubusercontent.com/49465310/124341427-3e168380-dbf7-11eb-960b-77cbd22b499c.gif" width="30" height="30"> About Soichiro Ono
 
-hi, I'm Soichiro Ono, a passionate full stack web developer and software engineer from Sunrize Country! Thanks🥺
+hi, I'm Soichiro Ono, a passionate full stack web developer and software engineer from Sunrize Country. 🌅⛩🇯🇵 
+I am currently in Tokyo, and working on react, ruby, ruby on rails, elixir, js, html, css and golang for projects 🚁🛸🚀
+I love soccer⚽, basketball🏀, board game🎲, workout💪, watching NBA⛹ and playing Mobile Legends🎮
+
+## 🌱 languages and tools 💻
+
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,elixir,figma,github,mysql,postman,ruby,go,vim,vscode,xd,pr,ps,au,bash,zsh,discord,docker,flask,git,gcp,gradle,idea,jquery,jest,linux,lua,md,md,materialui,netlify,py,rails,stackoverflow,svg,tailwind,webpack&perline=8)](https://skillicons.dev)
 
 
-** languages and tools: ** 
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sowiriro&show_icons=true&theme=gotham" alt="sowiriro" /
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=sowiriro&show_icons=true&bg_color=#232B41"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=sowiriro&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sowiriro&show_icons=true" />
+</picture>
 
 
 <!--
