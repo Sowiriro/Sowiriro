@@ -9,8 +9,8 @@ I love soccer⚽, basketball🏀, board game🎲, workout💪, watching NBA⛹ a
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,elixir,figma,github,mysql,postman,ruby,go,vim,vscode,xd,pr,ps,au,bash,nuxtjs,discord,docker,flask,git,gcp,gradle,idea,jquery,jest,linux,lua,md,materialui,netlify,py,rails,stackoverflow,svg,tailwind,webpack&perline=8)](https://skillicons.dev)
 
 
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=sowiriro&show_icons=true&bg_color=232B41&title_color=F3C06A&rank_icon=github&icon_color=ffffff&text_color=29314C"/>
+<picture align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=sowiriro&show_icons=true&bg_color=232B41&title_color=ffffff&rank_icon=github&icon_color=E8556D&text_color=F3C06A&ring_color=ffffff&custom_title=sowiriro_status"/>
 </picture>
 
 
