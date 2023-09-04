@@ -1,14 +1,11 @@
-<h2> Hi, I'm Soichiro Ono!</h2> <img src="https://user-images.githubusercontent.com/49465310/124341427-3e168380-dbf7-11eb-960b-77cbd22b499c.gif" width="50">
+# <p align="center" >![tumblr_lvr6ahuIWv1qg0dcvo1_500](https://github.com/Sowiriro/Sowiriro/assets/49465310/d02b3d9d-c94c-4445-8df6-d893264fe038)<img src="https://user-images.githubusercontent.com/49465310/124341427-3e168380-dbf7-11eb-960b-77cbd22b499c.gif" width="100"></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sowiriro&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+hi, I'm Soichiro Ono, a passionate full stack web developer and software engineer from Sunrize Country! Thanks🥺
 
 
+** languages and tools: ** 
 
-<!-- リポジトリステータス -->
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=Sowiriro&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Sowiriro/)
-
-<!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sowiriro&layout=compact&theme=tokyonight)](https://github.com/Sowiriro/)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sowiriro&show_icons=true&theme=gotham" alt="sowiriro" /
 
 
 <!--
