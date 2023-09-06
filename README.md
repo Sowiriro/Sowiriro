@@ -16,6 +16,10 @@ I love soccer⚽, basketball🏀, board game🎲, workout💪, watching NBA⛹ a
   <img src="https://github-readme-stats.vercel.app/api?username=sowiriro&show_icons=true&bg_color=232B41&title_color=ffffff&rank_icon=github&icon_color=E8556D&text_color=F3C06A&ring_color=ffffff&custom_title=sowiriro_status"/>
 </picture>
 
+<picture>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowiriro&theme=transparent" width="100%"/>
+</picture>
+
 
 <!--
 **Sowiriro/Sowiriro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
