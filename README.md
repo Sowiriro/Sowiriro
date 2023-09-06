@@ -6,7 +6,7 @@ I love soccer⚽, basketball🏀, board game🎲, workout💪, watching NBA⛹ a
 
 ## <img src="https://github.com/Sowiriro/Sowiriro/assets/49465310/9f5c1da9-7d44-4519-83d1-a26f37bae9ce" width="50" height="50"> Languages and Tools
 
-<img align="right" src="https://github.com/Sowiriro/Sowiriro/assets/49465310/a674cca0-8045-4ea2-b71c-f91fced9971a" width="50%" height="25%" />
+<img align="right" src="https://github.com/Sowiriro/Sowiriro/assets/49465310/a674cca0-8045-4ea2-b71c-f91fced9971a" width="40%" height="20%" />
 
 <img src="https://skillicons.dev/icons?i=react,js,html,css,elixir,figma,github,mysql,postman,ruby,go,vim,vscode,xd,pr,ps,au,bash,nuxtjs,discord,docker,flask,git,gcp,gradle,idea,jquery,jest,linux,lua,md,materialui,netlify,py,rails,stackoverflow,svg,tailwind,webpack&perline=8"/>
 
